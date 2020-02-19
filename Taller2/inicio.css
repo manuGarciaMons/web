@@ -1,0 +1,22 @@
+*{
+  background-color: #BFF3E8;
+}
+
+
+.formulario{
+
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(4, 37, 37);
+
+}
+.botones{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#formulario{
+
+    text-align: center;
+
+}
